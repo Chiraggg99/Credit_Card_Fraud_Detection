@@ -22,7 +22,30 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
+## 🚀 Clone this repository:
    ```bash
    git clone https://github.com/Chiraggg99/Credit_Card_Fraud_Detection.git
+```
+## 📊 Results
+- Trained models to classify fraudulent transactions
+- Evaluation based on key ML performance metrics
+- Visual insights into fraud vs non-fraud transaction patterns
+  
+---
+
+## 🛠 Tech Stack
+- Python
+- Jupyter Notebook
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  
+---
+##🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to open a pull request.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+
